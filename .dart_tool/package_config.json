@@ -141,7 +141,7 @@
     },
     {
       "name": "video_player_platform_interface",
-      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-6.0.1",
+      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/git/video_player_platform_interface-85de527d391da0bdb396c6a59b8727f6c3aa9c3f/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -152,7 +152,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-01-01T09:38:12.196568Z",
+  "generated": "2023-01-01T10:43:50.519829Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }
